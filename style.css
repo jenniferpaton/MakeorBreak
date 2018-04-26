@@ -157,3 +157,10 @@ h2 {
     color: #eb3b45;
     font-size: 20px;
 }
+
+.writeup {
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left:150px;
+}
