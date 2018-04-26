@@ -40,7 +40,7 @@ p {
 }
 
 {box-sizing: border-box;
-height: 30%;
+height: 500px;
 }
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
@@ -48,7 +48,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 60%;
+  max-width: 50%;
   position: relative;
   margin: auto;
 }
