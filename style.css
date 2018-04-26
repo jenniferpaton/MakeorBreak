@@ -140,3 +140,20 @@ img {vertical-align: middle;}
     margin-right: auto;
     width: 50%;
 }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    color: #eb3b45;
+    font-size: 20px;
+}
